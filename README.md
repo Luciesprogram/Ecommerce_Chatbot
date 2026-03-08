@@ -22,7 +22,7 @@ This project leverages Jupyter Notebook to develop and demonstrate a conversatio
 
 ### Prerequisites
 
-- Python 3.7+
+- Python 3.10
 - Jupyter Notebook
 - pip (Python package manager)
 
