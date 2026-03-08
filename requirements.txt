@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain-astradb
+sentence_transformers
+datasets
+transformers
+pypdf
+flask
+python-dotenv
+langchain-huggingface
+accelerate
+torch
+
+-e .

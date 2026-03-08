@@ -1,0 +1,4 @@
+.env/
+e_com/           
+__pycache__/
+ECommercebot.egg-info/
